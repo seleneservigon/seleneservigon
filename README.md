@@ -21,7 +21,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 When I'm not working with data, I enjoy creating content and do some hiking around Lima.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://seleneservigon.github.io/seleneservigon/)
+### [🏆 Check Out My Full Portfolio Website](https://seleneservigon.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
