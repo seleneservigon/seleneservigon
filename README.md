@@ -13,11 +13,12 @@
 </p>
 
 ## 🚀 About Me 
-I'm Business Student passionate in data analyst to help businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm Business Student from Chiclayo, Perú! Passionate on data analyst to help businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.  I love the "aha!" moment when data reveals something new and useful.
+
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
-When I'm not working with data, I enjoy creating content and do some hiking around Lima. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy creating content and do some hiking around Lima.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://seleneservigon.github.io/)
